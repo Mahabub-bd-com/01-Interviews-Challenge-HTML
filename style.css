@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ul{
+    font-size: 25px;
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+.highlight{
+    font-size: 22px;
+}
+
+#main-heading{
+    font-size: 22px;
+}
